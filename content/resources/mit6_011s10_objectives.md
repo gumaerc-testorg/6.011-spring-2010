@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 30b7b28a-c157-c837-a4c6-05ec108baaea
 resourcetype: Document
 title: MIT6_011S10_objectives.pdf
 uid: cf359ac3-aea0-8933-c947-dbe0d96f4b48

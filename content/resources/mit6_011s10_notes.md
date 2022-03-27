@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: acd6b33e-f9a8-3af7-53fb-5db7d566d89a
 resourcetype: Document
 title: MIT6_011S10_notes.pdf
 uid: a6bddaee-5966-f6e7-3450-e6fe79ab0566
