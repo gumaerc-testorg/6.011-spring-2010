@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides the course notes, information on a version of the
+  notes that has been adapted and published in book form, a list of additional required
+  texts, and a list of optional references.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -32,7 +35,7 @@ NOTES
 Complete course notes
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 3.2MB]({{< baseurl >}}/resources/mit6_011s10_notes))
+({{% resource_link a6bddaee-5966-f6e7-3450-e6fe79ab0566 "PDF - 3.2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -41,7 +44,7 @@ Complete course notes
 Table of contents
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_011s10_contents))
+({{% resource_link b9a6ef52-fcc0-6080-43a8-bc6e98f49c64 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -59,7 +62,7 @@ Chapter 1: Introduction
 Chapter 2: Signals and systems
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_011s10_chap02))
+({{% resource_link 4599f6cf-f8a3-8904-77f4-c4986db032a2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -68,7 +71,7 @@ Chapter 2: Signals and systems
 Chapter 3: Transform representation of signals and linear, time-invariant (LTI) systems
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_011s10_chap03))
+({{% resource_link 7fe9f08b-4f00-50ca-cf66-4236b2620e58 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -77,7 +80,7 @@ Chapter 3: Transform representation of signals and linear, time-invariant (LTI) 
 Chapter 4: State-space models
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_011s10_chap04))
+({{% resource_link 0009cae2-6d52-18d6-ebae-14297d111325 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -86,7 +89,7 @@ Chapter 4: State-space models
 Chapter 5: Properties of LTI state-space models
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_011s10_chap05))
+({{% resource_link 59a39b08-3dc3-501a-8e75-7bd16e46d6bc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -95,7 +98,7 @@ Chapter 5: Properties of LTI state-space models
 Chapter 6: State observers and state feedback
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_011s10_chap06))
+({{% resource_link 20576662-3e6e-6edc-42f9-b6d129f18d30 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -104,7 +107,7 @@ Chapter 6: State observers and state feedback
 Chapter 7: Probabilistic models
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_011s10_chap07))
+({{% resource_link 2c4e0564-a2b3-1995-4d3f-ca9c118abd60 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -113,7 +116,7 @@ Chapter 7: Probabilistic models
 Chapter 8: Estimation with minimum mean square error
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_011s10_chap08))
+({{% resource_link f3ed10bd-2a49-c9ec-2baf-3dddb5242862 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -122,7 +125,7 @@ Chapter 8: Estimation with minimum mean square error
 Chapter 9: Random processes
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_011s10_chap09))
+({{% resource_link f240d885-8162-6352-c6a1-7eb2872504aa "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -131,7 +134,7 @@ Chapter 9: Random processes
 Chapter 10: Power spectral density
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_011s10_chap10))
+({{% resource_link 80750411-84d5-6610-3ce7-c3f69afc5e75 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -140,7 +143,7 @@ Chapter 10: Power spectral density
 Chapter 11: Wiener filtering
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_011s10_chap11))
+({{% resource_link f135b328-c744-8bf2-1c49-39ea9ff8f8fb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -149,7 +152,7 @@ Chapter 11: Wiener filtering
 Chapter 12: Pulse amplitude modulation (PAM), quadrature amplitude modulation (QAM)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_011s10_chap12))
+({{% resource_link d2df3fc9-0619-0f97-8ad6-66c9c63cdc5d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -158,7 +161,7 @@ Chapter 12: Pulse amplitude modulation (PAM), quadrature amplitude modulation (Q
 Chapter 13: Hypothesis testing
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_011s10_chap13))
+({{% resource_link a28fcd60-540c-02d8-f904-0e97cf58c151 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -167,7 +170,7 @@ Chapter 13: Hypothesis testing
 Chapter 14: Signal detection
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_011s10_chap14))
+({{% resource_link 61ec3ac8-14f1-8a1f-05b4-ce0c90e89282 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
