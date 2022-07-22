@@ -5,6 +5,7 @@ file: /courses/6-011-introduction-to-communication-control-and-signal-processing
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT6_011S10_final_ans.pdf
 uid: 84a55f72-54fd-44c5-4125-01f3d408aebb
 ---
 This resource contains solutions of final. 
-
