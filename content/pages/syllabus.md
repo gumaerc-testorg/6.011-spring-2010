@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides information course meeting times, objectives
+  and outcomes, prerequisites, quizzes and exams, and homework assignments.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 30b7b28a-c157-c837-a4c6-05ec108baaea
 ---
@@ -14,7 +18,7 @@ Recitations: 2 sessions / week, 1 hour / session
 Objectives and Outcomes
 -----------------------
 
-6.011 objectives and outcomes ([PDF]({{< baseurl >}}/resources/mit6_011s10_objectives))
+6.011 objectives and outcomes ({{% resource_link cf359ac3-aea0-8933-c947-dbe0d96f4b48 "PDF" %}})
 
 Prerequisites
 -------------
