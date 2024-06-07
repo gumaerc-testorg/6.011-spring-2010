@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains solutions related to the final exam problem statements.
 file: /courses/6-011-introduction-to-communication-control-and-signal-processing-spring-2010/ef55950bf86c0cb48bf869f67f1516d6_MIT6_011S10_final_sol.pdf
+file_size: 273687
 file_type: application/pdf
 learning_resource_types:
 - Exams
