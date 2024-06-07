@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource contains answer booklet of quiz 1. '
 file: /courses/6-011-introduction-to-communication-control-and-signal-processing-spring-2010/217ed2ff66dba4dc36e67792e506bddd_MIT6_011S10_quiz01_ans.pdf
+file_size: 134437
 file_type: application/pdf
 learning_resource_types:
 - Exams
