@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains answer booklet of quiz 2.
-file: /ol-ocw-studio-app/courses/6-011-introduction-to-communication-control-and-signal-processing-spring-2010/8c11b37381db79f0a88ecebc9921a4b0_MIT6_011S10_quiz02_ans.pdf
+file: /courses/6-011-introduction-to-communication-control-and-signal-processing-spring-2010/8c11b37381db79f0a88ecebc9921a4b0_MIT6_011S10_quiz02_ans.pdf
 file_size: 156546
 file_type: application/pdf
 learning_resource_types:
