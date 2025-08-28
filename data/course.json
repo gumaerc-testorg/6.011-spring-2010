@@ -46,9 +46,10 @@
   },
   "learning_resource_types": [
     "Exams with Solutions",
-    "Online Textbook"
+    "Open Textbooks"
   ],
   "site_uid": "2972f2b4-d186-454f-ba66-216cdf8e0c18",
   "site_short_id": "6.011-spring-2010",
+  "site_url_path": "courses/6-011-introduction-to-communication-control-and-signal-processing-spring-2010",
   "title": "Course Metadata"
 }
